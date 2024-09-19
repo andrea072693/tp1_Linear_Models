@@ -11,6 +11,6 @@ This project focuses on simple and multiple linear regression models to predict 
 - **Custom Functions**: Implement custom regression functions for deeper analysis.
 
 ## **Project Files**:
-- `analysis.Rmd`: R Markdown file containing the full analysis.
-- `report.html`: Rendered HTML report generated from the `.Rmd` file.
+- `TP1NEWToSubmit.Rmd`: R Markdown file containing the full analysis.
+- `index.html`: Rendered HTML report generated from the `.Rmd` file.
   
